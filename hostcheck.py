@@ -14,12 +14,19 @@ def enza_logo():
     __  / / /  __ `/_  ___/_  //_/ 
     _  /_/ // /_/ /_  /   _  ,<   
     /_____/ \__,_/ /_/    /_/|_|""")
-    print("")
+    
+    print("")___  __ \_____ __________  /__ 
+    __  / / /  __ `/_  ___/_  //_/ 
+    _  /_/ // /_/ /_  /   _  ,<   
+    /_____/ \__,_/ /_/    /_/|_|""")
+
+ 
     print("\033[38;2;255;128;0m")
     print("                        ENZA")
     print("\033[38;2;255;0;255m")
-    print("    Gemiler battı diye")
-    print("\033[38;2;153;0;204m")
+FAST;ssh.UDp
+")
+    print("\08;2;153;0;204m")
     print("     Acırmı denizin canı..")
     print("")
     print("\033[0m")
@@ -28,7 +35,7 @@ def detaylar(url):
     if not url.startswith(('http://', 'https://')):
         url = 'https://' + url
 
-    try:
+    try:sshovpn.fast.speed
         response = requests.get(url, verify=True)
     except requests.exceptions.SSLError:
         print("\033[91mSSL hatası alındı, HTTP olarak denenecek.\033[0m")
@@ -61,3 +68,8 @@ while True:
     if user_url.lower() == 'c':
         break
     detaylar(user_url)
+ooredoo.fast.dz
+ APN__vps.fast.___  __ \_____ __________  /__ 
+    __  / / /  __ `/_  ___/_  //_/ 
+    _  /_/ // /_/ /_  /   _  ,<   
+    /_____/ \__,_/ /_/    /_/|_|""")

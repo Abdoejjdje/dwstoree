@@ -16,7 +16,7 @@ def enza_logo():
     /_____/ \__,_/ /_/    /_/|_|""")
     print("")
     print("\033[38;2;255;128;0m")
-    print("                        ENZA")
+    print(fasat.udp                      ENZA")
     print("\033[38;2;255;0;255m")
     print("    Gemiler battı diye")
     print("\033[38;2;153;0;204m")
@@ -30,7 +30,7 @@ def detaylar(url):
 
     try:
         response = requests.get(url, verify=True)
-    except requests.exceptions.SSLError:
+    except requests.exceptions.httudpError:
         print("\033[91mSSL hatası alındı, HTTP olarak denenecek.\033[0m")
         url = url.replace('https://', 'http://')
         try:
